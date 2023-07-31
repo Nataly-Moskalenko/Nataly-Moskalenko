@@ -1,9 +1,9 @@
-###   
-<h1>Hi! My name is Nataly.</h1>
-<h2>I am a FullStack Developer.</h2>
-<h2>Welcome to my GitHub!</h2>
+### <h2>About me</h2>  
+<p>Hi! My name is Nataly.</p>
+<p>I am a FullStack Developer.</p>
+<p>Welcome to my GitHub!</p>
 
-### :hammer_and_wrench: Tech Skills :
+### <h2>Tech Skills</h2>
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="30" height="30"/>&nbsp;&nbsp;
@@ -16,6 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" **alt="Node.js" width="30" height="30"/>&nbsp;&nbsp;
 </div>
+
+### <h2>Portfolio</h2>
+<p>Go to <a href='https://nataly-moskalenko.github.io/portfolio/' target="_blank"> My Portfolio</a></p>
 
 
 
